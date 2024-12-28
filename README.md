@@ -1,5 +1,3 @@
----
-
 # Salut, je suis **@HackfutSec** 👋
 
 🔐 **Passionné de cybersécurité | Développeur expérimenté | Automatisation & Scripts**
@@ -39,15 +37,16 @@ La technologie évolue rapidement, et je suis en constante quête d'amélioratio
 
 Voici quelques-uns des projets que j'ai créés ou auxquels j'ai contribué :
 
-[https://github.com/](https://github.com/HackfutSec) # ou sont contenu tout projets
+[Github](https://github.com/HackfutSec) # ou sont contenu tout projets
+[Pastebin](https://pastebin.com/u/hackfut)
 ---
 
 ## 💬 Parlons-en !
 
 Si tu veux discuter de cybersécurité, de développement logiciel, ou de toute autre technologie qui te passionne, je suis toujours ouvert à de nouvelles conversations et collaborations.
 
-📧 **Email** : hackfutsec504@protonmail.com  
-💬 **Twitter** : [@HackfutSec](https://twitter.com/HackfutSec)  
+📧 **Email** : HackfutSec0@proton.me 
+💬 **X** : [@HackfutSec](https://x.com/H4ckfutS3c)  
 🌐 **Telegram** : [@H4ckfutSec](https://t.me/H4ckfutSec)
 
 ---
