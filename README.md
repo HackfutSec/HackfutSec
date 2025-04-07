@@ -50,6 +50,14 @@ Si tu veux discuter de cybersécurité, de développement logiciel, ou de toute 
 🌐 **Telegram** : [@H4ckfutSec](https://t.me/H4ckfutSec)
 ☠️ **TELEGRAM** : [@GROUP](https://t.me/Hackers_GPs)
 ---
+## Donation 
+
+
+**BTC** : 1KhN9AMAQ1WjAW3e2iF1eRJkN7MXWdagr9
+**USDTRX** : TAsLoWi3HoCVtDxLCxeLf9vzQpyw6hudLw
+**USDT** : TBAt2irQm2aV56EGofWkrdjKT54Sug4D7u
+**ETH** : 0xb6BB36328D3d10dd135f088B85653CE93726D5eE
+
 
 ### Mon engagement envers l'Open Source
 
