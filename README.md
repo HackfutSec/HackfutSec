@@ -47,8 +47,8 @@ Si tu veux discuter de cybersécurité, de développement logiciel, ou de toute 
 
 📧 **Email** : HackfutSec0@proton.me 
 💬 **X** : [@HackfutSec](https://x.com/H4ckfutS3c)  
-🌐 **Telegram** : [Hackfut](https://t.me/HackfutS3c)
-☠️ **TELEGRAM** : [@GROUP](https://t.me/webshellbuyersking)
+🌐 **Telegram** : [Hackfut](https://t.me/H3CkfutS3c)
+☠️ **TELEGRAM** : [@GROUP](https://t.me/webshells404)
 ---
 ## Donation 
 
