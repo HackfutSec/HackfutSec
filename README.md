@@ -1,81 +1,112 @@
-# Salut, je suis **@HackfutSec** 👋
+# Hello, I'm **@HackfutSec** 👋
 
-🔐 **Passionné de cybersécurité | Développeur expérimenté | Automatisation & Scripts**
+🔐 **Cybersecurity Enthusiast | Experienced Developer | Automation & Scripting**
 
-Je suis un développeur chevronné, axé sur la sécurité informatique, avec une expertise dans la création de solutions logicielles robustes et sécurisées. Toujours à l'affût des nouvelles tendances et technologies, je m'efforce de repousser les limites de mes compétences pour bâtir des applications innovantes et résilientes. Je suis également un fervent défenseur de la pratique de l'apprentissage continu.
-
----
-
-## 🚀 Mon parcours
-
-- 🔒 **Sécurité avant tout :** J'ai une expérience approfondie dans la cybersécurité, incluant la création d'outils pour la protection des systèmes et l'automatisation des tests de vulnérabilité.
-- 💻 **Développement full-stack :** De la création de scripts en Python à la mise en œuvre d'applications backend scalables et sécurisées, en passant par la gestion des environnements cloud.
-- 🛠️ **Technologies et outils :** Python, JavaScript, C/C++, Go, Docker, Kubernetes, Terraform, GitLab CI/CD, Kubernetes, etc.
-- 🧠 **Open-source et Collaboration :** Je crois fermement à la puissance de la communauté open-source et contribue régulièrement à des projets qui visent à rendre la cybersécurité plus accessible à tous.
+I'm an experienced developer focused on computer security, with expertise in creating robust and secure software. Always on the lookout for new trends and technologies, I strive to push the boundaries of my skills to build innovative and resilient applications. I'm also a strong advocate for continuous learning practices.
 
 ---
 
-## 🔍 Ce que je fais
+## 🚀 My Journey
 
-- **Automatisation des tests de sécurité** : J'écris des scripts pour l'automatisation de la détection de vulnérabilités dans des environnements complexes.
-- **Développement sécurisé** : Je développe des logiciels et des API sécurisées tout en mettant l'accent sur les meilleures pratiques en matière de cryptographie et de protection des données.
-- **Conseils et mentorat** : Je partage mes connaissances sur GitHub, StackOverflow et sur divers forums spécialisés en cybersécurité.
-
----
-
-## 📚 Toujours en apprentissage
-
-La technologie évolue rapidement, et je suis en constante quête d'amélioration. Voici quelques domaines sur lesquels je me concentre actuellement :
-
-- 🔒 **Sécurité avancée** : PenTest, EDR (Endpoint Detection & Response), sécurité des applications et des containers.
-- 🌐 **Blockchain & Cryptomonnaies** : J'explore les concepts autour des smart contracts et des protocoles de consensus.
-- ⚙️ **Machine Learning et Intelligence Artificielle** : J'apprends à intégrer des modèles ML dans des solutions sécurisées pour des applications à grande échelle.
+- 🔒 **Security First:** I have extensive experience in cybersecurity, including creating tools for system protection and automating vulnerability testing.
+- 💻 **Full-Stack Development:** From creating Python scripts to implementing scalable and secure backend applications, including managing cloud environments.
+- 🛠️ **Technologies & Tools:** Python, JavaScript, C/C++, Go, Docker, Kubernetes, Terraform, GitLab CI/CD, etc.
+- 🧠 **Open Source & Collaboration:** I firmly believe in the power of the open-source community and regularly contribute to projects aimed at making cybersecurity more accessible to everyone.
 
 ---
 
-## 📈 Mes Projets
+## 🔍 What I Do
 
-Voici quelques-uns des projets que j'ai créés ou auxquels j'ai contribué :
+- **Security Testing Automation:** I write scripts to automate vulnerability detection in complex environments.
+- **Secure Development:** I develop secure software and APIs with a focus on best practices in cryptography and data protection.
+- **Consulting & Mentoring:** I share my knowledge on GitHub, StackOverflow, and various specialized cybersecurity forums.
 
-[Github](https://github.com/HackfutSec) # ou sont contenu tout projets
-[Pastebin](https://pastebin.com/u/hackfut)
 ---
 
-## 💬 Parlons-en !
+## 📚 Always Learning
 
-Si tu veux discuter de cybersécurité, de développement logiciel, ou de toute autre technologie qui te passionne, je suis toujours ouvert à de nouvelles conversations et collaborations.
+Technology evolves rapidly, and I'm constantly seeking improvement. Here are some areas I'm currently focusing on:
 
-📧 **Email** : HackfutSec0@proton.me 
-💬 **X** : [@HackfutSec](https://x.com/H4ckfutS3c)  
-🌐 **Telegram** : [Hackfut](https://t.me/H3CkfutS3c)
-☠️ **TELEGRAM** : [@GROUP](https://t.me/webshells404)
+- 🔒 **Advanced Security:** PenTesting, EDR (Endpoint Detection & Response), application and container security.
+- 🌐 **Blockchain & Cryptocurrencies:** I'm exploring concepts around smart contracts and consensus protocols.
+- ⚙️ **Machine Learning & Artificial Intelligence:** I'm learning to integrate ML models into secure solutions for large-scale applications.
+
 ---
-## Donation 
 
+## 📈 My Projects
 
-**BTC** : 1KhN9AMAQ1WjAW3e2iF1eRJkN7MXWdagr9
-**USDTRX** : TAsLoWi3HoCVtDxLCxeLf9vzQpyw6hudLw
-**USDT** : TBAt2irQm2aV56EGofWkrdjKT54Sug4D7u
-**ETH** : 0xb6BB36328D3d10dd135f088B85653CE93726D5eE
+Here are some of the projects I've created or contributed to:
 
+[![GitHub](https://img.shields.io/badge/GitHub-Projects-181717?style=for-the-badge&logo=github)](https://github.com/HackfutSec)
+[![Pastebin](https://img.shields.io/badge/Pastebin-Code%20Snippets-02456f?style=for-the-badge&logo=pastebin)](https://pastebin.com/u/hackfut)
 
-### Mon engagement envers l'Open Source
+---
 
-Je crois fermement que l'open-source est la clé pour améliorer la sécurité et l'innovation à l'échelle mondiale. C'est pourquoi j'essaie de contribuer autant que possible à des projets open-source. Si tu veux collaborer ou simplement voir mon code, tu peux explorer mes repos ci-dessous.
+## 💬 Let's Talk!
+
+If you want to discuss cybersecurity, software development, or any other technology that excites you, I'm always open to new conversations and collaborations.
+
+📧 **Email:** [HackfutSec0@proton.me](mailto:HackfutSec0@proton.me)  
+🐦 **X:** [@HackfutSec](https://x.com/H4ckfutS3c)  
+📱 **Telegram:** [Hackfut](https://t.me/H3CkfutS3c)  
+👥 **Telegram Group:** [@GROUP](https://t.me/webshells404)
+
+---
+
+## 💰 Donations
+
+If you appreciate my work and would like to support me:
+
+![BTC](https://img.shields.io/badge/BTC-1KhN9AMAQ1WjAW3e2iF1eRJkN7MXWdagr9-orange?style=flat-square&logo=bitcoin)
+![USDT](https://img.shields.io/badge/USDT_(TRC20)-TAsLoWi3HoCVtDxLCxeLf9vzQpyw6hudLw-blue?style=flat-square&logo=tether)
+![USDT](https://img.shields.io/badge/USDT_(ERC20)-TBAt2irQm2aV56EGofWkrdjKT54Sug4D7u-blue?style=flat-square&logo=tether)
+![ETH](https://img.shields.io/badge/ETH-0xb6BB36328D3d10dd135f088B85653CE93726D5eE-blue?style=flat-square&logo=ethereum)
+
+---
+
+### My Commitment to Open Source
+
+I firmly believe that open source is key to improving security and innovation on a global scale. That's why I try to contribute as much as possible to open-source projects. If you want to collaborate or just see my code, you can explore my repositories below.
 
 ---
 
 ### ⚡ Fun Fact
 
-En dehors de la programmation, je suis passionné par la recherche en cybersécurité, les défis CTF (Capture The Flag), et je m'investis dans des hackathons pour tester mes limites dans des environnements contrôlés.
+Outside of programming, I'm passionate about cybersecurity research, CTF (Capture The Flag) challenges, and I participate in hackathons to test my limits in controlled environments.
 
 ---
 
-📈 **Suivez-moi pour explorer mes dernières réalisations et contributions sur GitHub !**  
-🔗 **Contactez-moi** si vous avez des questions techniques ou des propositions de collaboration.
+📈 **Follow me to explore my latest achievements and contributions on GitHub!**  
+🔗 **Contact me** if you have technical questions or collaboration proposals.
 
 ---
 
 **@HackfutSec**
 
 ---
+
+<!-- Animation effects using GitHub Markdown -->
+![Visitor Count](https://komarev.com/ghpvc/?username=HackfutSec&color=blueviolet&style=flat-square)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HackfutSec&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HackfutSec&layout=compact&theme=radical)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HackfutSec&theme=radical)
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=HackfutSec&theme=radical&column=7)
+
+<!-- Animated icons -->
+<div align="center">
+  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
+
+</div>
+
+<!-- Snake animation -->
+![Snake animation](https://github.com/HackfutSec/HackfutSec/blob/output/github-contribution-grid-snake.svg)
