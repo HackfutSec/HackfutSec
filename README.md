@@ -59,8 +59,6 @@ If you want to discuss cybersecurity, software development, or any other technol
 If you appreciate my work and would like to support me:
 
 ![BTC](https://img.shields.io/badge/BTC-1KhN9AMAQ1WjAW3e2iF1eRJkN7MXWdagr9-orange?style=flat-square&logo=bitcoin)
-![USDT](https://img.shields.io/badge/USDT_(TRC20)-TAsLoWi3HoCVtDxLCxeLf9vzQpyw6hudLw-blue?style=flat-square&logo=tether)
-![USDT](https://img.shields.io/badge/USDT_(ERC20)-TBAt2irQm2aV56EGofWkrdjKT54Sug4D7u-blue?style=flat-square&logo=tether)
 ![ETH](https://img.shields.io/badge/ETH-0xb6BB36328D3d10dd135f088B85653CE93726D5eE-blue?style=flat-square&logo=ethereum)
 
 ---
@@ -95,7 +93,7 @@ Outside of programming, I'm passionate about cybersecurity research, CTF (Captur
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HackfutSec&theme=radical)
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=HackfutSec&theme=radical&column=7)
+![Trophies](https://camo.githubusercontent.com/e801b9daf58db4b5370c825f8c01a8c9df266acd5c4da12a17d993330adffaa6/68747470733a2f2f6769746875622d70726f66696c652d74726f7068792e76657263656c2e6170702f3f757365726e616d653d616572697374687926726f773d34267468656d653d6f6e656461726b266e6f2d6672616d653d74727565)
 
 <!-- Animated icons -->
 <div align="center">
