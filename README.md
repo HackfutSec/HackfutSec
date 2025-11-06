@@ -50,7 +50,7 @@ If you want to discuss cybersecurity, software development, or any other technol
 📧 **Email:** [HackfutSec0@proton.me](mailto:HackfutSec0@proton.me)  
 🐦 **X:** [@HackfutSec](https://x.com/H4ckfutS3c)  
 📱 **Telegram:** [Hackfut](https://t.me/H3CkfutS3c)  
-👥 **Telegram Group:** [@GROUP]((https://t.me/+5OQ0DYtNgXxhNGVk)
+👥 **Telegram Group:** [@GROUP](https://t.me/+5OQ0DYtNgXxhNGVk)
 
 ---
 
